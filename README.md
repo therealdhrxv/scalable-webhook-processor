@@ -1,4 +1,4 @@
-# Project Zapier-Clone: Webhook Automation Backend
+# Project: Webhook Automation Backend
 
 This project is a backend system designed to emulate core functionalities of Zapier, focusing on webhook-triggered automation. It allows users to define workflows (Zaps) where incoming webhooks trigger a series of predefined actions. The system is built with a microservices architecture using Node.js, TypeScript, PostgreSQL, and Kafka to handle asynchronous task processing.
 
